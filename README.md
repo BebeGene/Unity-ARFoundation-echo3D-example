@@ -16,9 +16,9 @@ Don't have an API key? Make sure to register for FREE at [echo3D](https://www.ec
 Tap the screen on your Android device to fire the football. Celebrate your win as the crowd goes wild!
 
 # Setup
+* Clone the 'GitHub\Unity-ARFoundation-echo3D-example\arfoundationbebe' project (not master branch)
 * Find the 3D models in 'FieldGoalFolder' 'Models' folder: GitHub\Unity-ARFoundation-echo3D-example\Assets\FieldGoalFolder.
 * Go to [echo3D console](https://console.echo3d.co/#/pages/contentmanager) and click "Add to Cloud" and upload the models (we used 1 key key per model).
-* Clone the 'GitHub\Unity-ARFoundation-echo3D-example\arfoundationbebe' project
 * Open the 'FieldGoal' scene.
 * [Add a 3D model](https://docs.echo3d.co/quickstart/add-a-3d-model) to the cloud in the echo3D console and paste their keys under the correct “Variant” in the Hierarchy.
 * [Set up](https://www.youtube.com/watch?v=0mpsiO2lCx0) your Build Settings & Player Settings and export your build to your Android device.
@@ -31,7 +31,7 @@ Refer to our [documentation](https://docs.echo3d.co/) to learn more about how to
 Feel free to reach out at support@echo3D.co or join our [support channel on Slack](https://echo3d.slack.com/ssb/redirect).
 
 # Screenshots
-![](https://i.postimg.cc/63WqWnDM/Superbowl-Screenshot1.png)
+![](https://i.postimg.cc/hjYX2h5M/Superbowl-Screenshot1.png)
 ![](https://i.postimg.cc/vBrKz6Tw/Superbowl-Screenshot2.png)
 ![](https://i.postimg.cc/3rZ60pzg/Superbowl-Screenshot3.png)
 
